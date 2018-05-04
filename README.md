@@ -1,5 +1,6 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarterm - Modified by me
 
+Giving credits to:
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
